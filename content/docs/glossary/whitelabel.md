@@ -1,6 +1,7 @@
 ---
 seo:
   title: Whitelabel
+  description: Refers to the process of showing ISPs that SendGrid has your permission to send emails on your behalf.
 title: Whitelabel
 weight: 0
 layout: page

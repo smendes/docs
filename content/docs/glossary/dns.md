@@ -6,10 +6,9 @@ navigation:
   show: false
 seo:
   title: Domain Name System (DNS)
+  description: Domain Name System (DNS) translates a domain name into an IP address to find the owner’s site.
   override: true
 ---
-
-Domain Name System (DNS) translates a domain name into an IP address to find the owner’s site.
 
 Let's say that you type the URL www.sendgrid.com into your browser. The browser contacts a DNS server to get the IP
 address. A DNS server would start its search for an IP address by contacting one of the root DNS servers. The root servers

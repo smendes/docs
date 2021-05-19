@@ -6,10 +6,11 @@ navigation:
   show: false
 seo:
   title: DMARC 
+  description: Domain-based Message Authentication, Reporting and Conformance (DMARC) is a standard for determining the authenticity of the person or service sending email on behalf of a domain.
   override: true
 ---
 
-Domain-based Message Authentication, Reporting and Conformance (DMARC) is a standard for determining the authenticity of the person or service sending email on behalf of a domain. DMARC attempts to minimize email [spoofing]({{root_url}}/glossary/spoofing/) by building on top of existing authentication standards.
+DMARC attempts to minimize email [spoofing]({{root_url}}/glossary/spoofing/) by building on top of existing authentication standards.
 
 ## Domain-based Message Authentication
 

@@ -3,6 +3,7 @@ layout: page
 weight: 0
 seo:
   title: Reconfirmation Email Campaigns
+  description: A reconfirmation email, otherwise known as a re-opt in email, reminds clients you correspond with about your business.
 title: Reconfirmation Email Campaigns
 navigation:
   show: false

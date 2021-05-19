@@ -1,6 +1,7 @@
 ---
 seo:
   title: Drops
+  description: In certain cases, SendGrid will “Drop” a message to a specific email address in order to protect your sender reputation. SendGrid keeps Email Lists to track bounces, spam reports, and unsubscribes for each of our users.
 title: Drops
 weight: 0
 layout: page
@@ -8,7 +9,7 @@ navigation:
   show: false
 ---
 
-In certain cases, SendGrid will “Drop” a message to a specific email address in order to protect your sender reputation. SendGrid keeps Email Lists to track bounces, spam reports, and unsubscribes for each of our users. If a user sends a message to an email address that exists on one of these lists within their account, SendGrid will automatically drop the message (i.e., not send to the address).
+If a user sends a message to an email address that exists on one of these lists within their account, SendGrid will automatically drop the message (i.e., not send to the address).
 
 <call-out>
 

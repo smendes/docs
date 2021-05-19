@@ -7,10 +7,10 @@ navigation:
 seo:
   title: Invalid Email
   override: true
-  description: 
+  description: occurs when you attempt to send email to an address that is formatted in a manner that does not meet internet email format standards.
 ---
 
-An [invalid email]({{root_url}}/ui/sending-email/invalid-emails/) occurs when you attempt to send email to an address that is formatted in a manner that does not meet internet email format standards. Examples include addresses without the “@” sign or addresses that include certain special characters and/or spaces. This response comes from our own server since an invalid email is impossible to even attempt to send to its [non-existent] destination.
+An [invalid email]({{root_url}}/ui/sending-email/invalid-emails/) include addresses without the “@” sign or addresses that include certain special characters and/or spaces. This response comes from our own server since an invalid email is impossible to even attempt to send to its [non-existent] destination.
 
 <call-out>
 

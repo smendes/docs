@@ -1,7 +1,7 @@
 ---
 seo:
   title: Spam
-  description: The most simple way to define spam in the Email world is by using these 2 words: unwanted email.
+  description: The most simple way to define spam in the Email world is by using these 2 words unwanted email.
 title: Spam
 weight: 0
 layout: page
